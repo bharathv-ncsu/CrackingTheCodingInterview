@@ -1,0 +1,12 @@
+//Goal of this File would be to track who has coded which program. Its more of an Index or Table of Contents kind
+//Syntax: P<Program Number>: <Program Name> : <Short Description of the Program> : <Author>
+//Ex: P1: unique_characters.c : Unique Characters in String : Bharath Venkatesh
+
+//BEGIN
+P1: unique_characters.c : Unique Characters in String : Bharath Venkatesh
+//END
+
+
+
+
+
