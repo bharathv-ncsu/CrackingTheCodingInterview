@@ -3,8 +3,10 @@
 //Ex: P1: unique_characters.c : Unique Characters in String : Bharath Venkatesh
 
 //BEGIN
-P1: unique_characters.c : Unique Characters in String : Bharath Venkatesh
-P2: reverse_string.c : Reverse a String 'inplace' : Bharath Venkatesh
+P1: unique_characters.cpp : Unique Characters in String : Bharath Venkatesh
+P2: reverse_string.cpp : Reverse a String 'inplace' : Bharath Venkatesh
+P3: remove_duplicates.cpp : Remove Duplicates in a string : Bharath Venkatesh
+P4: anagram.cpp : Check if two strings are anagrams : Bharath Venkatesh
 //END
 
 
